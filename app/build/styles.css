@@ -1,0 +1,8 @@
+div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+div h2 {
+  color: #00f;
+}
